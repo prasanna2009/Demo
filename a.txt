@@ -1,4 +1,10 @@
-#!/bin/bash
+#!/bin/bashkjsf
+ajashfkashf
+
+i mt kaskgfas
+fasgfkasgfas
+gfkagflashf
+
 yum update -y
 
 yum install httpd php php-mysql stress -y
